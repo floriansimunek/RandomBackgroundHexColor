@@ -7,6 +7,10 @@ div{
     flex-direction: column;
 }
 
+h1{
+    text-transform: uppercase;
+}
+
 h1, button{
     margin: 0 auto;
 }
